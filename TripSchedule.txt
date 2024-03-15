@@ -7,3 +7,4 @@ Check-out time: 12:00 p.m
 [Convinence Facilities]
 - Wifi
 - One bed
+- Two Room
